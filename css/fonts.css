@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url(../fonts/Raleway/static/Raleway-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url(../fonts/Open_Sans/static/OpenSans/OpenSans-Regular.ttf);
+}
